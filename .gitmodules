@@ -1,0 +1,57 @@
+[submodule "apache-tools"]
+	path = apache-tools
+	url = https://aur.archlinux.org/apache-tools.git
+[submodule "brother-dcp7040"]
+	path = brother-dcp7040
+	url = https://aur.archlinux.org/brother-dcp7040.git
+[submodule "cryptocat"]
+	path = cryptocat
+	url = https://aur.archlinux.org/cryptocat.git
+[submodule "gitflow-git"]
+	path = gitflow-git
+	url = https://aur.archlinux.org/gitflow-git.git
+[submodule "input-wacom-dkms"]
+	path = input-wacom-dkms
+	url = https://aur.archlinux.org/input-wacom-dkms.git
+[submodule "liquidprompt-git"]
+	path = liquidprompt-git
+	url = https://aur.archlinux.org/liquidprompt-git.git
+[submodule "packer"]
+	path = packer
+	url = https://aur.archlinux.org/packer.git
+[submodule "pixeluvo"]
+	path = pixeluvo
+	url = https://aur.archlinux.org/pixeluvo.git
+[submodule "pssh"]
+	path = pssh
+	url = https://aur.archlinux.org/pssh.git
+[submodule "python26"]
+	path = python26
+	url = https://aur.archlinux.org/python26.git
+[submodule "python30"]
+	path = python30
+	url = https://aur.archlinux.org/python30.git
+[submodule "python32"]
+	path = python32
+	url = https://aur.archlinux.org/python32.git
+[submodule "python33"]
+	path = python33
+	url = https://aur.archlinux.org/python33.git
+[submodule "python34"]
+	path = python34
+	url = https://aur.archlinux.org/python34.git
+[submodule "python35"]
+	path = python35
+	url = https://aur.archlinux.org/python35.git
+[submodule "samsung-printers"]
+	path = samsung-printers
+	url = https://aur.archlinux.org/samsung-printers.git
+[submodule "skypeforlinux-bin"]
+	path = skypeforlinux-bin
+	url = https://aur.archlinux.org/skypeforlinux-bin.git
+[submodule "v4l2loopback-dkms"]
+	path = v4l2loopback-dkms
+	url = https://aur.archlinux.org/v4l2loopback-dkms.git
+[submodule "x-tile-git"]
+	path = x-tile-git
+	url = https://aur.archlinux.org/x-tile-git.git
